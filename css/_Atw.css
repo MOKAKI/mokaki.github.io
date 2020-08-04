@@ -1,0 +1,301 @@
+
+/*_ATW202004120507******************************************************/
+
+.blank{height:1px;clear:both;visibility:hidden;}
+
+textarea{border: none;}
+
+
+
+
+/*AutoWebCss*/
+
+.dropBox{height: 100%;width: 100%;}
+.opacityCss00{opacity : .0;transition-duration: 0s;}
+.opacityCss00:hover{opacity : .7;transition-duration: 4s;}
+.opacityCss03{opacity : .3;transition-duration: 2s;}
+.opacityCss03:hover{opacity : 1;transition-duration: 0s;}
+
+.AutoWebBox,
+.AutoWebBox  iframe,
+.AutoWebBox  textarea ,
+.AutoWebBox  input 
+{background-color: rgba(0, 0, 0,0);color: rgba(255, 255, 255,1);}
+
+.AutoWebBox{
+resize: ;
+height: 100%;width: 100%;
+position: sticky  ; float: left ;
+overflow:hidden;
+background: url("https://media.giphy.com/media/11lwHbBOvT48CY/giphy.gif") center center fixed no-repeat;background-size: cover;}
+
+.AutoWebBox iframe,.AutoWebBox textarea,.AutoWebChgtextareaSrc
+{position: absolute;}
+
+.AutoWebBox iframe{
+transform: scale(.8);
+transform-origin:0 0;
+height:calc(123% ) ;
+width:calc(123% );
+margin: 0px 0 0 0;
+top: 10PX;left: 0;
+}
+
+.AutoWebBox textarea{top: 10PX;right: 0;left: 0;bottom: 20px;height:calc(100% - 20px ) ;
+width:calc(100% );}
+
+.AutoWebBox textarea{
+z-index: 2;resize: both;background-color: rgba(0, 0, 0,.8);}
+
+
+
+.AutoWebChgtextareaSrc{
+z-index: 2;overflow:hidden;
+font-size: 15px;line-height:50px;height:50px;
+background: url("https://media.giphy.com/media/11lwHbBOvT48CY/giphy.gif") center center fixed no-repeat;background-size: cover;
+}
+
+
+
+
+
+
+
+
+.AutoWebBox button{
+z-index: 2;overflow:hidden;
+font-size: 20px;
+background-color: rgba(255, 255, 255,.8);position: absolute;
+border-top-right-radius:50px;
+border-bottom-right-radius:50px;transition-duration: 2s;}
+
+
+
+
+
+
+
+.AutoWebChgiframeSrc{
+z-index: 1;overflow:hidden;
+position: absolute;
+
+background-color: rgba(0, 0, 0,.8);
+transition-duration: 2s;
+
+
+}
+
+
+
+
+.AutoWebBox button{top: -25px;left: -180px;height:50px;width:200px;}
+.AutoWebBox button:hover{top: 0px;left: 0%;transition-duration: 1s;}
+
+.AutoWebChgtextareaSrc{bottom: -5px;right: 95%;width:200px;
+border-top-right-radius:50px;border-bottom-right-radius:50px;
+transition-duration: 2s;
+}
+.AutoWebChgtextareaSrc:hover{bottom: 0px;right: 80%;transition-duration: 1s;}
+
+
+.AutoWebChgiframeSrc{right: -185px;bottom: 80px;height:50px;
+width:200px;}
+
+.AutoWebChgiframeSrc:hover{
+border-radius:5px;transition-duration: 1s;right: 0px;padding: 0 -0 0 50px;
+}
+
+.HiddenBox{display: none;}
+
+
+
+/*aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa*/
+
+
+.divleftFram,.divleftFram2,.divleftFram3,.divleftFram4 {resize: ;z-index: 1;position: fixed;transition-duration: 6s;}
+
+
+
+.divleftFram .dropBox:hover,
+.divleftFram2 .dropBox:hover,
+.divleftFram3 .dropBox:hover,
+.divleftFram4 .dropBox:hover{z-index: 6;}
+
+
+.divleftFram {top: 0px;left: 0px;bottom: 0px;right:**;height:100%;width:calc(100px);}
+.divleftFram .dropBox {height:50%;width:calc(100%);}
+
+.divleftFram2 {top: 0px;left: 100px;bottom: 0px;right:**;height:100%;width:calc(100px);}
+.divleftFram2 .dropBox {height:33.333%;width:calc(100%);}
+
+
+.divleftFram3 {top: 0px;left: 200px;bottom: 0px;right:**;height:100%;width:calc(100% - 200px);}
+.divleftFram3 .dropBox {height:100%;width:calc(50%);float: left ;}
+
+
+
+.divleftFram4 {	z-index: 1;position: fixed;top: 0px;left: ;bottom: 0px;right:-100px;height:100%;width:calc(100px);}
+.divleftFram4 .dropBox {height:100px;width:calc(100%);}
+
+
+/*aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa*/
+
+
+
+
+
+
+/*R_BoxR_BoxR_BoxR_BoxR_BoxR_BoxR_BoxR_BoxR_BoxR_BoxR_BoxR_BoxR_BoxR_Box*/
+
+
+
+.R_Box{position: fixed;top: 0px;right: 0px;height:auto;width:auto;
+min-width:50px;max-width:200px;}
+
+
+
+.R_Box textarea,.R_Box input{position: relative;top: 0px;right: -150px;min-width:200px;height:auto;
+padding:15px;
+transition-duration: 3s;border-radius: 5px;
+-webkit-border-radius: 5px;
+-moz-border-radius: 5px;background-color: rgba(0, 0, 0,0);color: rgba(255, 255, 255,.9);}
+
+
+
+.R_Box textarea:hover,.R_Box input:hover{right: 0px;background-color: rgba(52, 45, 85,.8);border-radius: 0px;}
+
+
+/*R_BoxR_BoxR_BoxR_BoxR_BoxR_BoxR_BoxR_BoxR_BoxR_BoxR_BoxR_BoxR_BoxR_Box*/
+
+
+/*aaaaaaaaaaaaaaaaaaaaaaaa1_NewAC_99_check_aaaaaaaaaaaaaaaaaaaaaaaaaa*/
+
+
+.Iim_d{opacity : .3;}
+
+
+
+.CodetextareaBOX1,.CodetextareaBOX2,.CodetextareaBOX3,.CodetextareaBOX4,.CodetextareaBOX5,.CodetextareaBOX10,
+.CodetextareaBOX11,.CodetextareaBOX12,.CodetextareaBOX13,.CodetextareaBOX14,.CodetextareaBOX15,.CodetextareaBOX20,
+.CodetextareaBOX21,.CodetextareaBOX22,.CodetextareaBOX23,.CodetextareaBOX24,.CodetextareaBOX25,.CodetextareaBOX26,
+.CodetextareaBOX27,.CodetextareaBOX28,.CodetextareaBOX29,.CodetextareaBOX30,.CodetextareaBOX31
+{position: relative;}
+
+.CodetextareaBOX1{height:70px;width:calc(100%);}
+
+.CodetextareaBOX2 {height:100px;width:calc(100%);top: 0px;left: 0%;}
+.CodetextareaBOX2 textarea{position: relative;float:left;}
+.CodetextareaBOX2 .Iimcheck_toSetName{width:calc(50%);}
+.CodetextareaBOX2 #IimnixecheckName{width:calc(30%);}
+.CodetextareaBOX2 #IimURL,.CodetextareaBOX2 #Iimcode1{width:calc(10%);}
+.CodetextareaBOX2 .Iim_d{width:calc(10%);}
+
+
+
+.CodetextareaBOX3{position: relative;height:100px;width:calc(100%);top: -50px;left: 0%;}
+.CodetextareaBOX3 textarea{position: relative;float:left;height:100px;}
+
+.CodetextareaBOX4{width:calc(100%);top: -50px;left: 0px;z-index: 2;}
+.CodetextareaBOX4 textarea{float:left;}
+.CodetextareaBOX4 .Iim_d{width:calc(5%);}
+.CodetextareaBOX4 .IimURL1{width:calc(10%);}
+.CodetextareaBOX4 .Iimcheck_Name{width:calc(70%);}
+
+.CodetextareaBOX5{width:calc(100%);top: -50px;left: 0px;}
+.CodetextareaBOX5 textarea{width:calc(100%);min-height:50px;}
+.CodetextareaBOX5 #Iimtitle{height:100px;}
+
+.CodetextareaBOX10{width:calc(100%);margin-top:10px;}
+.CodetextareaBOX10 .link2 {width:calc(100%);margin-bottom:20px;display:block;}
+.CodetextareaBOX10 textarea{width:calc(100%);height:250px;}
+
+
+.CodetextareaBOX11{height:290px;width:calc(100%);}
+
+#COLCode{display:block;height:30px;width:50px;position: absolute;
+top: 45px;right: 50px;background-color: rgba(0, 0, 0,0);}
+/*#COLCode=.CodetextareaBOX11*/
+
+.CodetextareaBOX13{height:70px;width:calc(100%);top: -70px;}
+
+.CodetextareaBOX14{width:calc(65%);top: -110px;left: 33%;}
+.CodetextareaBOX14 textarea{height:70px;float:left;width:calc(50%);}
+
+
+
+
+.CodetextareaBOX15 .Iimcheck_toSetName{width:calc(50%);}
+
+.CodetextareaBOX15 #IimURL,.CodetextareaBOX2 #Iimcode1{width:calc(10%);}
+.CodetextareaBOX15 .Iim_d{width:calc(9%);}
+
+.CodetextareaBOX15{padding-bottom:;height:100px;width:calc(100%);top: 10px;left: 0px;}
+.CodetextareaBOX15 textarea{position: relative;float:left;}
+.CodetextareaBOX15 .sTextCode{width:calc(5%);}
+.CodetextareaBOX15 .IimnixecheckName{width:calc(50%);}
+
+
+
+.CodetextareaBOX20 {width:calc(100%);top: 0px;left: 0px;}
+.CodetextareaBOX20 textarea{width:calc(100%);min-height:50px;}
+.CodetextareaBOX20 #Iimtitle{height:100px;}
+
+.CodetextareaBOX21{width:calc(100%);top: 10px;}
+.CodetextareaBOX21 .link2 {width:calc(100%);display:block;}
+.CodetextareaBOX21 textarea{width:calc(100%);height:50px;}
+
+.CodetextareaBOX22{height:70px;width:calc(100%);top: 10px;}
+
+.CodetextareaBOX23{width:calc(100%);margin-top:10px;}
+.CodetextareaBOX23 .link2 {width:calc(100%);}
+.CodetextareaBOX23 textarea{width:calc(100%);height:50px;margin-bottom:20px;}
+
+.CodetextareaBOX24{width:calc(100%);top: -40px;}
+
+.CodetextareaBOX25 {height:30px;width:calc(100%);top: 30px;left: 0%;}
+.CodetextareaBOX25 textarea{position: relative;float:left;height:30px;}
+.CodetextareaBOX25 .Iimcheck_toSetName{width:calc(50%);}
+.CodetextareaBOX25 #IimnixecheckName{width:calc(30%);}
+.CodetextareaBOX25 #IimURL,.CodetextareaBOX25 #Iimcode1{width:calc(10%);}
+.CodetextareaBOX25 .Iim_d{width:calc(10%);}
+
+
+.CodetextareaBOX26{position: relative;height:100px;width:calc(100%);top: -50px;left: 0%;}
+.CodetextareaBOX26 textarea{position: relative;float:left;height:100px;}
+.CodetextareaBOX27{height:100px;width:calc(100%);top: -20px;}
+
+
+.CodetextareaBOX28{height:100px;width:calc(100%);top: 50px;}
+.CodetextareaBOX28 textarea{position: relative;float:left;height:50px;}
+.CodetextareaBOX28 .Iim_d{width:calc(33%);}
+
+.CodetextareaBOX29{padding-bottom:;height:100px;width:calc(100%);top: 10px;left: 0px;}
+.CodetextareaBOX29 textarea{position: relative;float:left;}
+.CodetextareaBOX29 .Iimcheck_toSetName{width:calc(50%);}
+.CodetextareaBOX29 .IimnixecheckName{width:calc(10%);}
+.CodetextareaBOX29 .IimURL,.CodetextareaBOX2 .Iimcode1{width:calc(10%);}
+.CodetextareaBOX29 .Iim_d{width:calc(9%);}
+
+.CodetextareaBOX30{width:calc(100%);top: 10px;}
+
+.CodetextareaBOX31{width:calc(100%);top: 30px;}
+.CodetextareaBOX31 #IimURL,
+.CodetextareaBOX31 #Iimcode1,.CodetextareaBOX31 #Iimcheck_Name{width:calc(20%);}
+.CodetextareaBOX31 .Iim_d{width:calc(8%);}
+
+
+.CodetextareaBOX32{position: relative;height:100px;width:calc(100%);top: 30px;left: 0%;}
+.CodetextareaBOX32 textarea{position: relative;float:left;height:100px;}
+
+
+/*aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa*/
+
+
+ 
+
+
+
+
+
+
+

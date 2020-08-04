@@ -1,0 +1,13 @@
+/*
+@import url(mob.css) screen and (max-width: 767px);
+*/
+
+
+
+
+body{width:480px;margin:auto;background-color: rgba(96, 14, 74,.8);}
+.mob_no{display: none;}
+
+
+
+.LR480BOX{width:480px;margin:auto}

@@ -1,0 +1,13 @@
+/*
+@import url(pc.css) screen and (min-width: 1200px);
+*/
+
+
+
+
+body{width:1200px;margin:auto;background-color: rgba(255, 4, 752,.8);}
+.pad_no{display: none;}
+
+
+
+.LR480BOX{float:left;width:480px;margin:auto}
